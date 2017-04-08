@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:0,TEAM-IPTV-NIME
+
+#EXTINF:-1  tvg-logo="https://placehold.it/150x50" group-title="TEAM-IPTV-NIME",Fragmentado
+https://openload.co/embed/ijP-WAkrbV4/Split_2016_720p_lat.MP4
